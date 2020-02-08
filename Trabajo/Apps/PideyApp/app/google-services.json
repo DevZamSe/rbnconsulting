@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133978823309",
+    "firebase_url": "https://pideyapp-1574740283115.firebaseio.com",
+    "project_id": "pideyapp-1574740283115",
+    "storage_bucket": "pideyapp-1574740283115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133978823309:android:1c4f1adab905f88b27a0c4",
+        "android_client_info": {
+          "package_name": "com.devzamse.pideyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133978823309-kg9thtobogcp7kl17rf7d829bbrdukfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLC2dRh94Xj2s4u2w1Vyt7IR9372qkQJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133978823309-kg9thtobogcp7kl17rf7d829bbrdukfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

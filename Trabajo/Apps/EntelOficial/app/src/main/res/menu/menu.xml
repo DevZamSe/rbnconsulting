@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/inicio"
+        android:title="Inicio"
+        android:icon="@drawable/inicionavigation"
+        android:iconTint="#fff"/>
+
+    <item android:id="@+id/directorio"
+        android:title="Directorio"
+        android:icon="@drawable/directorionavigation"
+        android:iconTint="#fff"/>
+
+    <item android:id="@+id/opciones"
+        android:title="Opciones"
+        android:icon="@drawable/opcionesnavigation"
+        android:iconTint="#fff"/>
+
+</menu>
